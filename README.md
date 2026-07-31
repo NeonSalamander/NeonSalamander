@@ -1,64 +1,42 @@
-<div align="center">
-<div style="background:#008080; padding:24px; font-family:'Segoe UI',Tahoma,sans-serif; font-size:12px;">
-
-<div style="border-top:2px solid #fff; border-left:2px solid #fff; border-right:2px solid #404040; border-bottom:2px solid #404040; background:#c0c0c0; max-width:600px; margin:0 auto;">
-
-<!-- Title Bar -->
-<div style="background:#000080; color:#fff; padding:3px 6px; font-weight:bold; display:flex; justify-content:space-between; align-items:center;">
-  <span>◈ NeonSalamander</span>
-  <span style="font-size:11px; font-family:monospace;">_ □ ×</span>
-</div>
-
-<div style="padding:14px;">
-
-<!-- Compact ASCII -->
-<pre style="font-family:'Courier New',monospace; font-size:10px; line-height:1.15; text-align:center; margin:0 0 8px; color:#000;">
- _   _                      _      _
-| \ | | ___ _ __ ___   __ _| | ___| | __ _ _ __   __ _ _ __
-|  \| |/ _ \ '_ ` _ \ / _` | |/ _ \ |/ _` | '_ \ / _` | '_ \
-| |\  |  __/ | | | | | (_| | |  __/ | (_| | | | | (_| | | | |
-|_| \_|\___|_| |_| |_|\__,_|_|\___|_|\__,_|_| |_|\__,_|_| |_|
+<!-- Win3.1 Style Header -->
+<pre align="center">
+┌────────────────────────────────────────────────────────────────────────────┐
+│  NeonSalamander                                                      _ □ X │
+├────────────────────────────────────────────────────────────────────────────┤
+│                                                                            │
+│   _  _  ___  _  _     ___   _      _    _  _  __  _  _  ___  ___  _  __    │
+│  | \| |/ _ \| \| |   / __| | |    | |  | || |/ _\| || |/ _ \|   \| |/ _|   │
+│  |  \ || |_| | .` |   \__ \ | |__  | |__| || || | | || | |_| | | || | |_   │
+│  |_|\_|\___/|_|\_|   |___/ |____| |____||_||_||_|  \__/ \___/|___/|_|\__|  │
+│                                                                            │
+│              Wear mjölnir and hail Thor                                    │
+│                    Planet Express                                          │
+│                                                                            │
+└────────────────────────────────────────────────────────────────────────────┘
 </pre>
 
-<p style="text-align:center; font-style:italic; color:#404040; margin:0 0 14px; font-size:11px;">
-Wear mjölnir and hail Thor · Planet Express
+<!-- Primary Stack -->
+<p align="center">
+  <img src="https://img.shields.io/badge/◈_SSAS-000080?style=flat-square&logo=microsoftsqlserver&logoColor=white&labelColor=000080" alt="SSAS">
+  <img src="https://img.shields.io/badge/◈_DAX-808080?style=flat-square&logo=microsoft&logoColor=white&labelColor=808080" alt="DAX">
+  <img src="https://img.shields.io/badge/◈_R-008080?style=flat-square&logo=r&logoColor=white&labelColor=008080" alt="R">
 </p>
 
-<!-- Primary Stack — navy frame, no label -->
-<div style="border-top:2px solid #fff; border-left:2px solid #fff; border-right:2px solid #404040; border-bottom:2px solid #404040; background:#000080; padding:6px; margin-bottom:10px;">
-  <div style="border-top:2px solid #404040; border-left:2px solid #404040; border-right:2px solid #fff; border-bottom:2px solid #fff; background:#c0c0c0; padding:10px; text-align:center;">
+<!-- Secondary Stack -->
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL%2FT--SQL-000080?style=flat-square&logo=postgresql&logoColor=white&labelColor=000080" alt="SQL">
+  <img src="https://img.shields.io/badge/Python-008000?style=flat-square&logo=python&logoColor=white&labelColor=008000" alt="Python">
+  <img src="https://img.shields.io/badge/Rust-800000?style=flat-square&logo=rust&logoColor=white&labelColor=800000" alt="Rust">
+  <img src="https://img.shields.io/badge/PowerShell-000080?style=flat-square&logo=powershell&logoColor=white&labelColor=000080" alt="PowerShell">
+  <img src="https://img.shields.io/badge/1C%3AEnterprise-800000?style=flat-square&logo=1c&logoColor=white&labelColor=800000" alt="1C">
+  <img src="https://img.shields.io/badge/C-808080?style=flat-square&logo=c&logoColor=white&labelColor=808080" alt="C">
+  <img src="https://img.shields.io/badge/Java-808000?style=flat-square&logo=java&logoColor=white&labelColor=808000" alt="Java">
+  <img src="https://img.shields.io/badge/Docker-008080?style=flat-square&logo=docker&logoColor=white&labelColor=008080" alt="Docker">
+</p>
 
-<span style="display:inline-block; padding:3px 12px; margin:2px; font-size:11px; font-weight:bold; background:#000080; color:#fff; border-top:2px solid #8080ff; border-left:2px solid #8080ff; border-right:2px solid #000040; border-bottom:2px solid #000040;">◈ SSAS</span>
-<span style="display:inline-block; padding:3px 12px; margin:2px; font-size:11px; font-weight:bold; background:#000080; color:#fff; border-top:2px solid #8080ff; border-left:2px solid #8080ff; border-right:2px solid #000040; border-bottom:2px solid #000040;">◈ DAX</span>
-<span style="display:inline-block; padding:3px 12px; margin:2px; font-size:11px; font-weight:bold; background:#000080; color:#fff; border-top:2px solid #8080ff; border-left:2px solid #8080ff; border-right:2px solid #000040; border-bottom:2px solid #000040;">◈ R</span>
-
-  </div>
-</div>
-
-<!-- Secondary Stack — gray frame, no label -->
-<div style="border-top:2px solid #fff; border-left:2px solid #fff; border-right:2px solid #404040; border-bottom:2px solid #404040; background:#c0c0c0; padding:6px;">
-  <div style="border-top:2px solid #404040; border-left:2px solid #404040; border-right:2px solid #fff; border-bottom:2px solid #fff; background:#c0c0c0; padding:10px; text-align:center;">
-
-<span style="display:inline-block; padding:3px 10px; margin:2px; font-size:11px; font-weight:bold; background:#c0c0c0; color:#000; border-top:2px solid #fff; border-left:2px solid #fff; border-right:2px solid #404040; border-bottom:2px solid #404040;">SQL</span>
-<span style="display:inline-block; padding:3px 10px; margin:2px; font-size:11px; font-weight:bold; background:#c0c0c0; color:#000; border-top:2px solid #fff; border-left:2px solid #fff; border-right:2px solid #404040; border-bottom:2px solid #404040;">Python</span>
-<span style="display:inline-block; padding:3px 10px; margin:2px; font-size:11px; font-weight:bold; background:#c0c0c0; color:#000; border-top:2px solid #fff; border-left:2px solid #fff; border-right:2px solid #404040; border-bottom:2px solid #404040;">Rust</span>
-<span style="display:inline-block; padding:3px 10px; margin:2px; font-size:11px; font-weight:bold; background:#c0c0c0; color:#000; border-top:2px solid #fff; border-left:2px solid #fff; border-right:2px solid #404040; border-bottom:2px solid #404040;">PowerShell</span>
-<span style="display:inline-block; padding:3px 10px; margin:2px; font-size:11px; font-weight:bold; background:#c0c0c0; color:#000; border-top:2px solid #fff; border-left:2px solid #fff; border-right:2px solid #404040; border-bottom:2px solid #404040;">1C</span>
-<span style="display:inline-block; padding:3px 10px; margin:2px; font-size:11px; font-weight:bold; background:#c0c0c0; color:#000; border-top:2px solid #fff; border-left:2px solid #fff; border-right:2px solid #404040; border-bottom:2px solid #404040;">C</span>
-<span style="display:inline-block; padding:3px 10px; margin:2px; font-size:11px; font-weight:bold; background:#c0c0c0; color:#000; border-top:2px solid #fff; border-left:2px solid #fff; border-right:2px solid #404040; border-bottom:2px solid #404040;">Java</span>
-<span style="display:inline-block; padding:3px 10px; margin:2px; font-size:11px; font-weight:bold; background:#c0c0c0; color:#000; border-top:2px solid #fff; border-left:2px solid #fff; border-right:2px solid #404040; border-bottom:2px solid #404040;">Docker</span>
-
-  </div>
-</div>
-
-<!-- Status Bar -->
-<div style="border-top:2px solid #404040; border-left:2px solid #404040; border-right:2px solid #fff; border-bottom:2px solid #fff; background:#c0c0c0; padding:3px 8px; margin-top:10px; font-size:11px; display:flex; justify-content:space-between;">
-  <span>◈ C:\GITHUB\NEONSALAMANDER&gt; _</span>
-  <span>3 objects selected</span>
-</div>
-
-</div>
-</div>
-
-</div>
-</div>
+<!-- Win3.1 Footer -->
+<pre align="center">
+┌────────────────────────────────────────────────────────────────────────────┐
+│  C:\GITHUB\NEONSALAMANDER> _                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+</pre>
